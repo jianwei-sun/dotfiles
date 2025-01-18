@@ -1,0 +1,17 @@
+[user]
+	email = jian58sun@gmail.com
+	name = Jianwei Sun
+
+[diff]
+	algorithm = histogram
+[merge]
+       autostash = true
+[pull]
+       rebase = true
+[rebase]
+       autoSquash = true
+       autoStash = true
+       abbreviateCommands = true
+
+#[core]
+#	editor = code --wait --new-window
