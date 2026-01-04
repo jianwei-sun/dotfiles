@@ -1,3 +1,4 @@
 [font]
-size = 13.0
+normal = {family = "FiraCode Nerd Font", style = "Regular"}
+size = 18.0
 
