@@ -1,3 +1,3 @@
 #!/bin/bash
 
-stow -v vim tmux git alacritty logid neovim
+stow -v --target ~ vim tmux git alacritty 
